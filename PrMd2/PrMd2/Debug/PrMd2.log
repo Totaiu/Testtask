@@ -1,0 +1,3 @@
+﻿  PrMd2.cpp
+C:\Users\winte\source\repos\PrMd2\PrMd2\PrMd2.cpp(77,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PrMd2.vcxproj -> C:\Users\winte\source\repos\PrMd2\Debug\PrMd2.exe
