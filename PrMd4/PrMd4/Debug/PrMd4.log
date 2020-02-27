@@ -1,0 +1,4 @@
+﻿  PrMd4.cpp
+C:\Users\winte\source\repos\PrMd4\PrMd4\PrMd4.cpp(15,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\winte\source\repos\PrMd4\PrMd4\PrMd4.cpp(17,19): warning C4018: '<': signed/unsigned mismatch
+  PrMd4.vcxproj -> C:\Users\winte\source\repos\PrMd4\Debug\PrMd4.exe
