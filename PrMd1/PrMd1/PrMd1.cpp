@@ -24,6 +24,6 @@ int main()
             std::cout << str[i];
         }
     }
-    return 0
+    return 0;
 }
 
