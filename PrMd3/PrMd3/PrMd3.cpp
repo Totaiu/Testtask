@@ -11,9 +11,9 @@ int main()
 {
     
     std::vector<std::string> urls;
-    urls.push_back("http://mytona.com/index.html");
-    urls.push_back("https://mytona.com:8080/");
-    urls.push_back("mytona.com");
+    urls.push_back("http://Example.com/index.html");
+    urls.push_back("https://Example.com:8080/");
+    urls.push_back("Example.com");
     std::string protocol, host, port, page, t;
 
     for (std::vector<std::string>::size_type i = 0; i != urls.size(); i++)
