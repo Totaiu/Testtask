@@ -22,6 +22,8 @@ int main()
         else 
         {
             std::cout << str[i];
+
+
         }
     }
     return 0;
